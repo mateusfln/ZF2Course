@@ -3,7 +3,7 @@
 namespace Livraria\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
-use Doctrine\Common\Collections\ArrayCollections;
+use Doctrine\Common\Collections\ArrayCollection;
 
 /**
  * @ORM\Entity
